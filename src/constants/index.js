@@ -9,6 +9,13 @@ export const ABOUT_TEXT = "I am a Full Stack Developer and student at Chandigarh
 
 export const EXPERIENCES = [
   {
+    year: "2025 - Present",
+    role: "Owner",
+    company: "CopConnectX",
+    description: `Leading the development and execution of CopConnectX, a tech-driven initiative focused on law enforcement solutions. Overseeing business strategy, technical development, and team management.`,
+    technologies: ["Entrepreneurship", "Leadership", "Business Strategy"],
+  },
+  {
     year: "2024 - Present",
     role: "Secretary",
     company: "Engineering Community",
@@ -23,6 +30,7 @@ export const EXPERIENCES = [
     technologies: ["React", "Javascript", "Mongodb"],
   },
 ];
+
 
 export const PROJECTS = [
   {
